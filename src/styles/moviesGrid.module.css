@@ -1,0 +1,10 @@
+.filitas{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 230px);
+    gap: 40px;
+    padding: 40px;
+    text-decoration: none;
+    justify-content: center;
+    list-style: none;
+}
+
